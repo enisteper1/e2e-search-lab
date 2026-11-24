@@ -1,0 +1,12 @@
+# Sadece notebook'lar takip edilir; veri ve çıktı dosyaları hariç
+*
+!*/
+!*.ipynb
+!.gitignore
+!.gitkeep
+!README.md
+!LICENSE
+*.npy
+
+.ipynb_checkpoints/
+~$*
